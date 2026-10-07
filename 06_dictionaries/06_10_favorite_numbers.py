@@ -6,3 +6,5 @@ favorite_numbers = {
 
 for person, numbers in favorite_numbers.items():
     print(f"{person}: {numbers}")
+
+# difficulty rating of 7/10 the numbers confused me a little bit but i got it after a while

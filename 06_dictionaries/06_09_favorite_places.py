@@ -4,5 +4,10 @@ favorite_places = {
     "Liam": ["Lisbon"],
 }
 
-for name, places in favorite_places.items():
+for name, places in favorite_places():
     print(f"{name}'s favorite places: {places}")
+
+# difficulty rating of 2/10
+# dont got a favorite place so i just put some random ones 
+
+

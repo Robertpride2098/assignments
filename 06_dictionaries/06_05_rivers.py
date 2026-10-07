@@ -9,3 +9,4 @@ for river, country in rivers.items():
 
     # difficulty rating of 3/10
     # was easy once i got the hang of it 
+    

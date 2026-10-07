@@ -12,3 +12,5 @@ print(person['city'])
 
 # had some trouble with the formatting of the dictionary, but I think i got it 
 # diffuculty rating of 5/10 
+# something went wrong while uploading 
+# I have everything and can show you in class 
