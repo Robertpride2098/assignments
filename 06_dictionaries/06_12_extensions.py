@@ -1,4 +1,4 @@
-# Extend a dictionary with additional course information and present the updated information in a readable format.
+
 # Honestly had no clue what to do for this one, so i just made a dictionary with some courses and added some more information to it
 # also used the ai  
 # difficulty rating of 9/10
